@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://dhwani123:dhwani123@cluster0-hhias.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "32b9d6fd7c351b76e658",
+  "githubSecret": "5747207c71537b224335b3f25b46a31d548f99ad"
+}
